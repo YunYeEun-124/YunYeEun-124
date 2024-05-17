@@ -1,2 +1,2 @@
 
-[![Solved.ac https://www.acmicpc.net/user/yunye1204](http://mazassumnida.wtf/api/v2/generate_badge?boj=YunYeEun-124)](https://solved.ac/YunYeEun-124)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunye1204)](https://solved.ac/yunye1204)
