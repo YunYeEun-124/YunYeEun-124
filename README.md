@@ -13,6 +13,8 @@
   ## 👀 About Me
   #### :raising_hand: I am a Backend Engineer from South Korea.<br/>
   #### :mortar_board:  B.S. in Physics & Computer Science (Double Major), Sogang University
+  #### 🦁 Backend Member, LikeLion Sogang University 12th<br/>
+  #### 🦁 Chapter Leader, LikeLion Sogang University 13th
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunye1204)](https://solved.ac/yunye1204)
