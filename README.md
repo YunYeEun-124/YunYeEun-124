@@ -16,11 +16,11 @@
   #### 🦁 Backend Member, LikeLion Sogang University 12th<br/>
   #### 🦁 Chapter Leader, LikeLion Sogang University 13th
 
+## 💻 BaekJoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunye1204)](https://solved.ac/yunye1204)
-
-
-  <br/>
+## 🔗 Links
+- 📝 Dev Blog: [🤓🖥️🖱️](https://yy-e-124.tistory.com/)
   <br/>
   
  ## 🧱 Tech Stack
